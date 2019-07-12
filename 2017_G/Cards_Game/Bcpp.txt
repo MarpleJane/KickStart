@@ -1,0 +1,636 @@
+Deep: 0, i: 0
+Minn: 356711695
+Deep: 1, i: 0
+Deep: 1, i: 1
+Minn: 479576660
+Deep: 2, i: 0
+Deep: 2, i: 1
+Deep: 2, i: 2
+Minn: 242691145
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 193463159
+Deep: 3, i: 4
+Minn: 193463159
+Deep: 2, i: 3
+Minn: 193463159
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 242691145
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 242691145
+Deep: 2, i: 4
+Minn: 193463159
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 796841194
+Deep: 3, i: 3
+Minn: 796841194
+Deep: 3, i: 4
+Deep: 1, i: 2
+Minn: 242691145
+Deep: 2, i: 0
+Deep: 2, i: 1
+Minn: 479576660
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 193463159
+Deep: 3, i: 4
+Minn: 193463159
+Deep: 2, i: 2
+Deep: 2, i: 3
+Minn: 193463159
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 479576660
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 479576660
+Deep: 2, i: 4
+Minn: 193463159
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 774322088
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 774322088
+Deep: 3, i: 4
+Deep: 1, i: 3
+Minn: 193463159
+Deep: 2, i: 0
+Deep: 2, i: 1
+Minn: 479576660
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 242691145
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 242691145
+Deep: 2, i: 2
+Minn: 242691145
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 479576660
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 479576660
+Deep: 2, i: 3
+Deep: 2, i: 4
+Minn: 242691145
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 694750806
+Deep: 3, i: 2
+Minn: 694750806
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 1, i: 4
+Minn: 193463159
+Deep: 2, i: 0
+Deep: 2, i: 1
+Minn: 694750806
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 796841194
+Deep: 3, i: 3
+Minn: 796841194
+Deep: 3, i: 4
+Deep: 2, i: 2
+Minn: 694750806
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 774322088
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 774322088
+Deep: 3, i: 4
+Deep: 2, i: 3
+Minn: 774322088
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 694750806
+Deep: 3, i: 2
+Minn: 694750806
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 4
+Deep: 0, i: 1
+Minn: 479576660
+Deep: 1, i: 0
+Minn: 356711695
+Deep: 2, i: 0
+Deep: 2, i: 1
+Deep: 2, i: 2
+Minn: 242691145
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 193463159
+Deep: 3, i: 4
+Minn: 193463159
+Deep: 2, i: 3
+Minn: 193463159
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 242691145
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 242691145
+Deep: 2, i: 4
+Minn: 193463159
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 796841194
+Deep: 3, i: 3
+Minn: 796841194
+Deep: 3, i: 4
+Deep: 1, i: 1
+Deep: 1, i: 2
+Minn: 242691145
+Deep: 2, i: 0
+Minn: 356711695
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 193463159
+Deep: 3, i: 4
+Minn: 193463159
+Deep: 2, i: 1
+Deep: 2, i: 2
+Deep: 2, i: 3
+Minn: 193463159
+Deep: 3, i: 0
+Minn: 356711695
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 356711695
+Deep: 2, i: 4
+Minn: 193463159
+Deep: 3, i: 0
+Minn: 877331884
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 877331884
+Deep: 3, i: 4
+Deep: 1, i: 3
+Minn: 193463159
+Deep: 2, i: 0
+Minn: 356711695
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 242691145
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 242691145
+Deep: 2, i: 1
+Deep: 2, i: 2
+Minn: 242691145
+Deep: 3, i: 0
+Minn: 356711695
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 356711695
+Deep: 2, i: 3
+Deep: 2, i: 4
+Minn: 242691145
+Deep: 3, i: 0
+Minn: 549335309
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 549335309
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 1, i: 4
+Minn: 193463159
+Deep: 2, i: 0
+Minn: 549335309
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 796841194
+Deep: 3, i: 3
+Minn: 796841194
+Deep: 3, i: 4
+Deep: 2, i: 1
+Deep: 2, i: 2
+Minn: 549335309
+Deep: 3, i: 0
+Minn: 877331884
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 877331884
+Deep: 3, i: 4
+Deep: 2, i: 3
+Minn: 796841194
+Deep: 3, i: 0
+Minn: 549335309
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 549335309
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 4
+Deep: 0, i: 2
+Minn: 242691145
+Deep: 1, i: 0
+Minn: 356711695
+Deep: 2, i: 0
+Deep: 2, i: 1
+Minn: 479576660
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 193463159
+Deep: 3, i: 4
+Minn: 193463159
+Deep: 2, i: 2
+Deep: 2, i: 3
+Minn: 193463159
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 479576660
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 479576660
+Deep: 2, i: 4
+Minn: 193463159
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 774322088
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 774322088
+Deep: 3, i: 4
+Deep: 1, i: 1
+Minn: 479576660
+Deep: 2, i: 0
+Minn: 356711695
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 193463159
+Deep: 3, i: 4
+Minn: 193463159
+Deep: 2, i: 1
+Deep: 2, i: 2
+Deep: 2, i: 3
+Minn: 193463159
+Deep: 3, i: 0
+Minn: 356711695
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 356711695
+Deep: 2, i: 4
+Minn: 193463159
+Deep: 3, i: 0
+Minn: 877331884
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 877331884
+Deep: 3, i: 4
+Deep: 1, i: 2
+Deep: 1, i: 3
+Minn: 193463159
+Deep: 2, i: 0
+Minn: 356711695
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 479576660
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 479576660
+Deep: 2, i: 1
+Minn: 479576660
+Deep: 3, i: 0
+Minn: 356711695
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 356711695
+Deep: 2, i: 2
+Deep: 2, i: 3
+Deep: 2, i: 4
+Minn: 356711695
+Deep: 3, i: 0
+Minn: 678511301
+Deep: 3, i: 1
+Minn: 678511301
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 1, i: 4
+Minn: 193463159
+Deep: 2, i: 0
+Minn: 678511301
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 774322088
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 774322088
+Deep: 3, i: 4
+Deep: 2, i: 1
+Minn: 678511301
+Deep: 3, i: 0
+Minn: 877331884
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 877331884
+Deep: 3, i: 4
+Deep: 2, i: 2
+Deep: 2, i: 3
+Minn: 774322088
+Deep: 3, i: 0
+Minn: 678511301
+Deep: 3, i: 1
+Minn: 678511301
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 4
+Deep: 0, i: 3
+Minn: 193463159
+Deep: 1, i: 0
+Minn: 356711695
+Deep: 2, i: 0
+Deep: 2, i: 1
+Minn: 479576660
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 242691145
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 242691145
+Deep: 2, i: 2
+Minn: 242691145
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 479576660
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 479576660
+Deep: 2, i: 3
+Deep: 2, i: 4
+Minn: 242691145
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 694750806
+Deep: 3, i: 2
+Minn: 694750806
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 1, i: 1
+Minn: 479576660
+Deep: 2, i: 0
+Minn: 356711695
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 242691145
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 242691145
+Deep: 2, i: 1
+Deep: 2, i: 2
+Minn: 242691145
+Deep: 3, i: 0
+Minn: 356711695
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 356711695
+Deep: 2, i: 3
+Deep: 2, i: 4
+Minn: 242691145
+Deep: 3, i: 0
+Minn: 549335309
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 549335309
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 1, i: 2
+Minn: 242691145
+Deep: 2, i: 0
+Minn: 356711695
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 479576660
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 479576660
+Deep: 2, i: 1
+Minn: 479576660
+Deep: 3, i: 0
+Minn: 356711695
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Minn: 356711695
+Deep: 2, i: 2
+Deep: 2, i: 3
+Deep: 2, i: 4
+Minn: 356711695
+Deep: 3, i: 0
+Minn: 678511301
+Deep: 3, i: 1
+Minn: 678511301
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 1, i: 3
+Deep: 1, i: 4
+Minn: 242691145
+Deep: 2, i: 0
+Minn: 549335309
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 694750806
+Deep: 3, i: 2
+Minn: 694750806
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 1
+Minn: 678511301
+Deep: 3, i: 0
+Minn: 549335309
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 549335309
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 2
+Minn: 549335309
+Deep: 3, i: 0
+Minn: 678511301
+Deep: 3, i: 1
+Minn: 678511301
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 3
+Deep: 2, i: 4
+Deep: 0, i: 4
+Minn: 193463159
+Deep: 1, i: 0
+Minn: 549335309
+Deep: 2, i: 0
+Deep: 2, i: 1
+Minn: 694750806
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 796841194
+Deep: 3, i: 3
+Minn: 796841194
+Deep: 3, i: 4
+Deep: 2, i: 2
+Minn: 694750806
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 774322088
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 774322088
+Deep: 3, i: 4
+Deep: 2, i: 3
+Minn: 774322088
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 694750806
+Deep: 3, i: 2
+Minn: 694750806
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 4
+Deep: 1, i: 1
+Minn: 678511301
+Deep: 2, i: 0
+Minn: 549335309
+Deep: 3, i: 0
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 796841194
+Deep: 3, i: 3
+Minn: 796841194
+Deep: 3, i: 4
+Deep: 2, i: 1
+Deep: 2, i: 2
+Minn: 549335309
+Deep: 3, i: 0
+Minn: 877331884
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 877331884
+Deep: 3, i: 4
+Deep: 2, i: 3
+Minn: 796841194
+Deep: 3, i: 0
+Minn: 549335309
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 549335309
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 4
+Deep: 1, i: 2
+Minn: 549335309
+Deep: 2, i: 0
+Minn: 678511301
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 774322088
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 774322088
+Deep: 3, i: 4
+Deep: 2, i: 1
+Minn: 678511301
+Deep: 3, i: 0
+Minn: 877331884
+Deep: 3, i: 1
+Deep: 3, i: 2
+Deep: 3, i: 3
+Minn: 877331884
+Deep: 3, i: 4
+Deep: 2, i: 2
+Deep: 2, i: 3
+Minn: 774322088
+Deep: 3, i: 0
+Minn: 678511301
+Deep: 3, i: 1
+Minn: 678511301
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 4
+Deep: 1, i: 3
+Minn: 774322088
+Deep: 2, i: 0
+Minn: 549335309
+Deep: 3, i: 0
+Deep: 3, i: 1
+Minn: 694750806
+Deep: 3, i: 2
+Minn: 694750806
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 1
+Minn: 678511301
+Deep: 3, i: 0
+Minn: 549335309
+Deep: 3, i: 1
+Deep: 3, i: 2
+Minn: 549335309
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 2
+Minn: 549335309
+Deep: 3, i: 0
+Minn: 678511301
+Deep: 3, i: 1
+Minn: 678511301
+Deep: 3, i: 2
+Deep: 3, i: 3
+Deep: 3, i: 4
+Deep: 2, i: 3
+Deep: 2, i: 4
+Deep: 1, i: 4
+Case #1: 1272442659
